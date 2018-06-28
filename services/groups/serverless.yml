@@ -1,4 +1,4 @@
-service: mono-repo-sls-users
+service: mono-repo-sls-groups
 
 provider:
   name: aws
