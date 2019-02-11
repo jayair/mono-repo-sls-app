@@ -1,4 +1,2 @@
 # mono-repo-sls-app
 
-
-
