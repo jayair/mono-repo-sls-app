@@ -1,0 +1,2 @@
+after_deploy:
+  - [ "$SEED_STAGE_NAME" == "dev" ] && echo "deployed dev"
