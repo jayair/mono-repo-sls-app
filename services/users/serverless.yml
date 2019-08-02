@@ -12,6 +12,7 @@ functions:
           path: /
           method: get
           cors: true
+          
   new:
     handler: handler.hello
     events:
