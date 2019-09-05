@@ -2,7 +2,7 @@ service: mono-repo-sls-users
 
 provider:
   name: aws
-  runtime: nodejs8.10
+  runtime: nodejs9.10
 
 functions:
   hello:
