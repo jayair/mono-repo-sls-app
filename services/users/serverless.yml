@@ -12,13 +12,3 @@ functions:
           path: /
           method: get
           cors: true
-          
-  new:
-    handler: handler.hello
-    events:
-      - http:
-          path: /new
-          method: post
-          cors: true
-
-
