@@ -4,7 +4,7 @@ module.exports.hello = (event, context, callback) => {
     headers: {
       'Access-Control-Allow-Origin': '*',
     },
-    body: `This a demo service\n`
+    body: `This a users demo service\n`
   };
 
   callback(null, response);
