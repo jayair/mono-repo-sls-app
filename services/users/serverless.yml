@@ -6,7 +6,7 @@ provider:
 
 functions:
   hello:
-    handler: handler.hello
+    handler: handler1.hello
     events:
       - http:
           path: /
